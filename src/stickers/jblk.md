@@ -2,7 +2,7 @@
 title: "jblk"
 description: ""
 price: ""
-image: ""
+image: "portfolio-data/src/img/img1.png"
 tags: []
 colors: []
 ---
