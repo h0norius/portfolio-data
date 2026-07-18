@@ -1,9 +1,9 @@
 ---
 title: "Rat Pride"
-description: ""
-price: ""
+description: "rats go to pride"
+price: "5"
 image: ""
-tags: []
+tags: [cute]
 colors: []
 ---
 # Rat Pride
