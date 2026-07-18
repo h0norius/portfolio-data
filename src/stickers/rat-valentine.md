@@ -2,7 +2,7 @@
 title: "Rat Valentine"
 description: "a rat in love"
 price: "5 euros"
-image: "portfolio-data/img/img1.png"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img1.png"
 tags: [rat, valentine, love]
 colors: [pink, green, heart]
 ---
