@@ -2,7 +2,7 @@
 title: "Punk Drums"
 description: "get out of the way, dork!"
 collection: "Punk Band"
-image: "https://anacolaco.com/assets/placeholder.png"
+image: "https://raw.githubusercontent.com/h0norius/portfolio-data/refs/heads/main/src/img/punk-band.png"
 tags: ["punk", "doodle", "sticker", "cursing"]
 ---
 
@@ -14,4 +14,4 @@ get out of the way, dork!
 
 **Tags:** punk, doodle, sticker, cursing
 
-![Punk Drums](https://anacolaco.com/assets/placeholder.png)
+![Punk Drums](https://raw.githubusercontent.com/h0norius/portfolio-data/refs/heads/main/src/img/punk-band.png)
