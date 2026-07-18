@@ -1,11 +1,11 @@
 ---
-title: "book bok"
+title: "O Punk não morreu"
 description: ""
-price: ""
-image: ""
-tags: []
+price: "1 eur"
+image: "https://anacolaco.com/assets/placeholder.png"
+tags: [punk, doodle, sticker]
 ---
-# book bok
+# o punk nao morreu
 
 
 
