@@ -1,16 +1,16 @@
 ---
 title: "Punk vocalist"
-description: "gosh!"
+description: "Rats!"
 collection: "Punk Band"
 image: "https://raw.githubusercontent.com/h0norius/portfolio-data/refs/heads/main/src/img/punk-band.png"
-tags: ["punk", "doodle", "sticker"]
+tags: ["punk", "doodle", "sticker", "cursing"]
 ---
 
-# punk-vocalist
+# Punk Vocalist
 
-gosh!
+Rats!
 
-**Collection:** money
+**Collection:** Punk Band
 
 **Tags:** punk, doodle, sticker
 

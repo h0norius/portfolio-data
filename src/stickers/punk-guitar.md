@@ -1,14 +1,14 @@
 ---
 title: "Punk Guitar"
-description: "porra!"
+description: "dang!"
 collection: "Punk Band"
 image: "https://raw.githubusercontent.com/h0norius/portfolio-data/refs/heads/main/src/img/punk-band.png"
-tags: ["punk", "doodle", "sticker"]
+tags: ["punk", "doodle", "sticker", "cursing"]
 ---
 
 # Punk Guitar
 
-porra!
+dang!
 
 **Collection:** Punk Band
 
