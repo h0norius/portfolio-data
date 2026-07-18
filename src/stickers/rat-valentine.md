@@ -1,12 +1,12 @@
 ---
 title: "Rat Valentine"
-description: ""
-price: ""
-image: ""
-tags: []
-colors: []
+description: "a rat in love"
+price: "5 euros"
+image: "portfolio-data/img/img1.png"
+tags: [rat, valentine, love]
+colors: [pink, green, heart]
 ---
-# bob
+# ratvalentine
 
 
 
