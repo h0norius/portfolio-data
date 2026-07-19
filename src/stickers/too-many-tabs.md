@@ -3,7 +3,7 @@ title: "Too many tabs"
 description: ""
 collection: "Corporate Rat"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/corporate.png?raw=true"
-tags: ["Original", "tech"]
+tags: ["original", "tech"]
 ---
 
 # Too many tabs
@@ -12,6 +12,6 @@ tags: ["Original", "tech"]
 
 **Collection:** Corporate Rat
 
-**Tags:** Original, tech
+**Tags:** original, tech
 
 ![Too many tabs](https://github.com/h0norius/portfolio-data/blob/main/src/img/corporate.png?raw=true)
