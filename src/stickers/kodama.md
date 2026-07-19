@@ -3,7 +3,7 @@ title: "Kodama"
 description: "from Ghibli's Princess Mononoke"
 collection: "Anime"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/ghibli.png?raw=true"
-tags: ["fanart", "sticker"]
+tags: ["fanart", "sticker", "japan"]
 ---
 
 # Kodama
@@ -12,6 +12,6 @@ from Ghibli's Princess Mononoke
 
 **Collection:** Anime
 
-**Tags:** fanart, sticker
+**Tags:** fanart, sticker, japan
 
 ![Kodama](https://github.com/h0norius/portfolio-data/blob/main/src/img/ghibli.png?raw=true)
