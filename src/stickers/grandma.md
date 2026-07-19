@@ -3,7 +3,7 @@ title: "Grandma"
 description: "my grandma as a sticker"
 collection: "Beirapunk"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/Imagem%20colada.png?raw=true"
-tags: ["original", "portugal"]
+tags: ["original", "portugal", "sticker"]
 ---
 
 # Grandma
@@ -12,6 +12,6 @@ my grandma as a sticker
 
 **Collection:** Beirapunk
 
-**Tags:** original, portugal
+**Tags:** original, portugal, sticker
 
 ![Grandma](https://github.com/h0norius/portfolio-data/blob/main/src/img/Imagem%20colada.png?raw=true)
