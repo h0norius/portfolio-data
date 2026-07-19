@@ -1,5 +1,5 @@
 ---
-title: "Broke student club"
+title: "Broke Student Club"
 description: "the true "praxe" is being broke"
 collection: "Universidade"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/various.png?raw=true"
