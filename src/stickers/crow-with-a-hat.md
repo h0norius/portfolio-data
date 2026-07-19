@@ -3,7 +3,7 @@ title: "Crow with a hat"
 description: ""
 collection: "Halloween"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/halloween.png?raw=true"
-tags: ["original"]
+tags: ["original", "sticker"]
 ---
 
 # Crow with a hat
@@ -12,6 +12,6 @@ tags: ["original"]
 
 **Collection:** Halloween
 
-**Tags:** original
+**Tags:** original, sticker
 
 ![Crow with a hat](https://github.com/h0norius/portfolio-data/blob/main/src/img/halloween.png?raw=true)
