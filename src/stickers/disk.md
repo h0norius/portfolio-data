@@ -1,7 +1,7 @@
 ---
 title: "Disk"
 description: "Song of the week"
-collection: "Nostalgia"
+collection: "--"
 image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/corporate.png?raw=true"
 tags: ["original", "tech"]
 ---
@@ -10,7 +10,7 @@ tags: ["original", "tech"]
 
 Song of the week
 
-**Collection:** Nostalgia
+**Collection:** --
 
 **Tags:** original, tech
 
