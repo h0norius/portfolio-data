@@ -2,7 +2,7 @@
 title: "Grandma"
 description: "my grandma as a sticker"
 collection: "Beirapunk"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/Imagem%20colada.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-stickers/oldlady_BG.png?raw=true"
 tags: ["original", "portugal", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ my grandma as a sticker
 
 **Tags:** original, portugal, sticker
 
-![Grandma](https://github.com/h0norius/portfolio-data/blob/main/src/img/Imagem%20colada.png?raw=true)
+![Grandma](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-stickers/oldlady_BG.png?raw=true)
