@@ -1,4 +1,4 @@
-<img width="2000" height="2000" alt="imagem" src="https://github.com/user-attachments/assets/f9338423-0e7d-407b-b760-c95eb9b52433" />---
+---
 title: "Broke Student Club"
 description: "the true "praxe" is being broke"
 collection: "Universidade"
