@@ -2,7 +2,7 @@
 title: "Rats - Donation Box"
 description: "does this shirt spark joy?"
 collection: "Spring Cleaning"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_donate_BG.png"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_donate_BG.png?raw=true"
 tags: ["original", "rats", "sticker"]
 ---
 
@@ -13,4 +13,4 @@ does this shirt spark joy?
 
 **Tags:** original, rats, sticker
 
-![rat-donation-box](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_donate_BG.png)
+![rat-donation-box](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_donate_BG.png?raw=true)
