@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="imagem" src="https://github.com/user-attachments/assets/c02cedee-8610-4e9e-9b07-344b4967183a" />---
+---
 title: "Holy Grail - Tis but a scratch"
 description: ""Tis but a scratch. Come on, you pansy""
 collection: "Monty Python"
