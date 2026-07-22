@@ -2,7 +2,7 @@
 title: "Bulbasaur"
 description: "industry plant"
 collection: "Pokemón"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/pokemon.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/bulbassaur.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ industry plant
 
 **Tags:** fanart, sticker
 
-![Bulbasaur](https://github.com/h0norius/portfolio-data/blob/main/src/img/pokemon.png?raw=true)
+![Bulbasaur](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/bulbassaur.png?raw=true)
