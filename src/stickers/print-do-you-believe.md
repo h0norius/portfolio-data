@@ -1,17 +1,17 @@
 ---
 title: "Print - Do you Believe?"
-description: "there's pink goblins out there"
+description: "WHAT'S UP WITH THE GOBLIN'S EAR??"
 collection: "--"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/prints.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/buttbabe.jpg?raw=true"
 tags: ["original", "print"]
 ---
 
 # Print - Do you Believe?
 
-there's pink goblins out there
+WHAT'S UP WITH THE GOBLIN'S EAR??
 
 **Collection:** --
 
 **Tags:** original, print
 
-![Print - Do you Believe?](https://github.com/h0norius/portfolio-data/blob/main/src/img/prints.png?raw=true)
+![Print - Do you Believe?](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/buttbabe.jpg?raw=true)
