@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="imagem" src="https://github.com/user-attachments/assets/90058a01-65cc-4777-a3ac-d5a22447667b" />---
+---
 title: "Kodama"
 description: "from Ghibli's Princess Mononoke"
 collection: "Anime"
