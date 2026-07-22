@@ -2,7 +2,7 @@
 title: "Squirtly"
 description: "2 cool 4 school"
 collection: "Pokemón"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/pokemon.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/SQUIRT.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Squirtly](https://github.com/h0norius/portfolio-data/blob/main/src/img/pokemon.png?raw=true)
+![Squirtly](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/SQUIRT.png?raw=true)
