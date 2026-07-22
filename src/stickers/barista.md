@@ -2,7 +2,7 @@
 title: "Barista"
 description: ""
 collection: "Coffee Date"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/various.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/coffeedate_barista.png?raw=true"
 tags: ["original", "rats", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["original", "rats", "sticker"]
 
 **Tags:** original, rats, sticker
 
-![Barista](https://github.com/h0norius/portfolio-data/blob/main/src/img/various.png?raw=true)
+![Barista](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/coffeedate_barista.png?raw=true)
