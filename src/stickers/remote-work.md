@@ -1,4 +1,4 @@
-<img width="800" height="1600" alt="imagem" src="https://github.com/user-attachments/assets/da95d12f-9692-4ebd-94f8-cf631db2d32b" />---
+---
 title: "Remote work"
 description: "no pants, no worries"
 collection: "Corporate Rat"
