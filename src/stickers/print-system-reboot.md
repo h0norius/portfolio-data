@@ -2,7 +2,7 @@
 title: "Print - System Reboot"
 description: ""
 collection: "--"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/prints.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/systemReboot.png?raw=true"
 tags: ["original", "print"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["original", "print"]
 
 **Tags:** original, print
 
-![Print - System Reboot](https://github.com/h0norius/portfolio-data/blob/main/src/img/prints.png?raw=true)
+![Print - System Reboot](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/systemReboot.png?raw=true)
