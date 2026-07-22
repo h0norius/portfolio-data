@@ -2,7 +2,7 @@
 title: "Rats - Mop"
 description: "rage cleaning"
 collection: "Spring Cleaning"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/springcleaning.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_mopbucket_V3_BG.png"
 tags: ["cleaning", "rats", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ rage cleaning
 
 **Tags:** cleaning, rats, sticker
 
-![Rats - Mop](https://github.com/h0norius/portfolio-data/blob/main/src/img/springcleaning.png?raw=true)
+![Rats - Mop](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_springclean_mopbucket_V3_BG.png)
