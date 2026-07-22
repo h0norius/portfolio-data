@@ -2,7 +2,7 @@
 title: "Holy Grail - Your mother"
 description: ""Your mother was a hamster and your father smelled of elderberries""
 collection: "Monty Python"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/montypython.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/MontyPython_frenchtaunter_BG.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Holy Grail - Your mother](https://github.com/h0norius/portfolio-data/blob/main/src/img/montypython.png?raw=true)
+![Holy Grail - Your mother](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/MontyPython_frenchtaunter_BG.png?raw=true)
