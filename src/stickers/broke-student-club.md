@@ -1,17 +1,17 @@
 ---
 title: "Broke Student Club"
 description: "the true "praxe" is being broke"
-collection: "Universidade"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-stickers/Estudante_brokeclub_BG.png?raw=true"
-tags: ["original", "portugal", "sticker"]
+collection: "Estudante"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/beirapunk.png?raw=true"
+tags: ["original", "sticker", "portugal"]
 ---
 
 # Broke Student Club
 
 the true "praxe" is being broke
 
-**Collection:** Universidade
+**Collection:** Beirapunk
 
-**Tags:** original, portugal, sticker
+**Tags:** original, sticker, portugal
 
-![Broke Student Club](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-stickers/Estudante_brokeclub_BG.png?raw=true)
+![Broke Student Club](https://github.com/h0norius/portfolio-data/blob/main/src/img/beirapunk.png?raw=true)
