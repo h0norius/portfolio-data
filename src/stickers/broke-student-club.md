@@ -2,7 +2,7 @@
 title: "Broke Student Club"
 description: "the true praxe is being broke"
 collection: "Estudante"
-image: "https://anacolaco.com/assets/placeholder2.png"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/Estudante_brokeclub_BG.png?raw=true"
 tags: ["original", "portugal", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ the true praxe is being broke
 
 **Tags:** original, portugal, sticker
 
-![Broke Student Club](https://anacolaco.com/assets/placeholder2.png)
+![Broke Student Club](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/Estudante_brokeclub_BG.png?raw=true)
