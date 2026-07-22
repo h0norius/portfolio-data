@@ -1,12 +1,12 @@
 ---
-title: "Rats - pride flags"
+title: "Rats - asexual flag"
 description: ""
 collection: "Rat Pride"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/ratpride.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/rats_pride_asexual.png?raw=true"
 tags: ["original", "rats", "lgbtqia+", "sticker"]
 ---
 
-# Rats - pride flags
+# Rats - asexual flags
 
 
 
@@ -14,4 +14,4 @@ tags: ["original", "rats", "lgbtqia+", "sticker"]
 
 **Tags:** original, rats, lgbtqia+, sticker
 
-![Rats - pride flags](https://github.com/h0norius/portfolio-data/blob/main/src/img/ratpride.png?raw=true)
+![Rats - asexual flag](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/rats_pride_asexual.png?raw=true)
