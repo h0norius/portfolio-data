@@ -14,4 +14,4 @@ Fernando Pessoa as a walking sardine
 
 **Tags:** original, sticker, portugal
 
-![Fernando Sardinha]([https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/fernandoSardinha_BG.png?raw=true)
+![Fernando Sardinha](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/fernandoSardinha_BG.png?raw=true)
