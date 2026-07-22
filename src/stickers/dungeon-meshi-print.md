@@ -2,7 +2,7 @@
 title: "Dungeon Meshi Print"
 description: ""
 collection: "Anime"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/dungeon.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/DUNGEONMESHI.png?raw=true"
 tags: ["fanart", "print"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "print"]
 
 **Tags:** fanart, print
 
-![Dungeon Meshi Print](https://github.com/h0norius/portfolio-data/blob/main/src/img/dungeon.png?raw=true)
+![Dungeon Meshi Print](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/DUNGEONMESHI.png?raw=true)
