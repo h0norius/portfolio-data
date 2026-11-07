@@ -2,7 +2,7 @@
 title: "Vashta Nerada"
 description: ""the shadows that melt the flesh""
 collection: "Doctor Who"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_vashtanerada_BG.webp?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Vashta Nerada](https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true)
+![Vashta Nerada](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_vashtanerada_BG.webp?raw=true)
