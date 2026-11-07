@@ -2,7 +2,7 @@
 title: "Gundam - Zaku"
 description: ""
 collection: "Gundam"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/gundam.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_zaku_BG.webp?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Gundam - Zaku](https://github.com/h0norius/portfolio-data/blob/main/src/img/gundam.png?raw=true)
+![Gundam - Zaku](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_zaku_BG.webp?raw=true)

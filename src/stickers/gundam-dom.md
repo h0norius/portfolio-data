@@ -2,7 +2,7 @@
 title: "Gundam - Dom"
 description: ""
 collection: "Gundam"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_dom_BG.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_dom_BG.webp?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Gundam - Dom](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_dom_BG.png?raw=true)
+![Gundam - Dom](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_dom_BG.webp?raw=true)
