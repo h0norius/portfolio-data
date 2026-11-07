@@ -2,7 +2,7 @@
 title: "Sonic Screwdriver - 11th Doctor"
 description: "*scredriver noises*"
 collection: "Doctor Who"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_sonicscrew_12th_BG.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Sonic Screwdriver - 11th Doctor](https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true)
+![Sonic Screwdriver - 11th Doctor](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_sonicscrew_12th_BG.png?raw=true)
