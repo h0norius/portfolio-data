@@ -2,7 +2,7 @@
 title: "Don't Blink"
 description: "Ahhh you blinked!"
 collection: "Doctor Who"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_dontblink_BG.webp?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ Ahhh you blinked!
 
 **Tags:** fanart, sticker
 
-![Don't Blink](https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true)
+![Don't Blink](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_dontblink_BG.webp?raw=true)

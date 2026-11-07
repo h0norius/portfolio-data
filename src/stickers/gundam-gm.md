@@ -2,7 +2,7 @@
 title: "Gundam - GM"
 description: ""
 collection: "Gundam"
-image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/gundam.png?raw=true"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_gm_BG.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Gundam - GM](https://github.com/h0norius/portfolio-data/blob/main/src/img/gundam.png?raw=true)
+![Gundam - GM](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_gundam_gm_BG.png?raw=true
