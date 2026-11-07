@@ -14,4 +14,4 @@ tags: ["fanart", "sticker"]
 
 **Tags:** fanart, sticker
 
-![Sonic Screwdriver - 10th Doctor](https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true)
+![Sonic Screwdriver - 10th Doctor](https://github.com/h0norius/portfolio-data/blob/main/src/img/img-web/sticker_doctorwho_sonicscrew_10th_BG.png?raw=true)
