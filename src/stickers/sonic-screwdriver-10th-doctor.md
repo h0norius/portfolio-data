@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/cd325ba9-c54b-4fb9-8690-ebeb4a285d0f" />---
+---
 title: "Sonic Screwdriver - 10th Doctor"
 description: "*screwdriver noises*"
 collection: "Doctor Who"
