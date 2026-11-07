@@ -2,7 +2,7 @@
 title: "Sonic Screwdriver - 10th Doctor"
 description: "*screwdriver noises*"
 collection: "Doctor Who"
-image: "[https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true]"
+image: "https://github.com/h0norius/portfolio-data/blob/main/src/img/doctorwho.png?raw=true"
 tags: ["fanart", "sticker"]
 ---
 
